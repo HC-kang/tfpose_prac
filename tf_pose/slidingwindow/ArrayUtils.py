@@ -88,3 +88,4 @@ def determineMaxWindowSize(dtype, limit = None):
         return maxSize
     else:
         return limit
+        
